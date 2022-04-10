@@ -1,2 +1,1 @@
-# IT-Automation
-https://googlecoursera.qwiklabs.com/focuses/21028762?parent=lti_session
+I am editing the README file. Adding some more details about the project description.
